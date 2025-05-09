@@ -1,7 +1,7 @@
 -- Preprocesamiento
 
 
--- Crear tabla con usuarios que calificaron mas de 20 películas y menos de 400
+-- Crear tabla con usuarios que calificaron mas de 20 películas y menos de 500
 drop table if exists usuarios_sel;
 
 create table usuarios_sel as 
@@ -9,7 +9,7 @@ create table usuarios_sel as
 select "userId" as user_id, count(*) as cnt_rat
 from ratings
 group by "userId"
-having cnt_rat >20 and cnt_rat <= 400
+having cnt_rat >20 and cnt_rat <= 500
 order by cnt_rat desc ;
 
 -- Crear tabla con peliculas que tengan más de 5 calificaciones 
@@ -39,9 +39,6 @@ on a.movieId =b.movieId
 inner join usuarios_sel c
 on a."userId" =c.user_id;
 
-
-
--- VERIFICAR CODIGO ABAJO
 
 drop table if exists movies_final;
 
