@@ -2,9 +2,7 @@ import pandas as pd
 import numpy as np
 import sqlite3 
 
-def saludar():
-    print("hola mundo")
-    
+   
 def ejecutar_sql (nombre_archivo, cur):
     sql_file=open(nombre_archivo)
     sql_as_string=sql_file.read()
