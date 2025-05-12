@@ -7,3 +7,39 @@
 2025-05-11 21:05:04,398 - INFO - Conexión a la base de datos establecida.
 2025-05-11 21:05:54,563 - INFO - Conexión a la base de datos establecida.
 2025-05-11 21:06:26,578 - INFO - Conexión a la base de datos establecida.
+2025-05-11 21:19:59,599 - INFO - Conexión a la base de datos establecida.
+2025-05-11 21:22:06,193 - INFO - Conexión a la base de datos establecida.
+2025-05-11 21:30:11,265 - INFO - Conexión a la base de datos establecida.
+2025-05-11 21:30:11,270 - INFO - Ejecución de SQL para filtrar peliculas y ratings completada.
+2025-05-11 21:30:47,243 - INFO - Conexión a la base de datos establecida.
+2025-05-11 21:30:47,246 - INFO - Ejecución de SQL para filtrar peliculas y ratings completada.
+2025-05-11 21:31:48,371 - INFO - Conexión a la base de datos establecida.
+2025-05-11 21:31:48,372 - INFO - Ejecución de SQL para filtrar peliculas y ratings completada.
+2025-05-11 21:31:50,886 - INFO - Preprocesamiento de datos completado.
+2025-05-11 21:38:28,428 - INFO - Conexión a la base de datos establecida.
+2025-05-11 21:38:28,431 - INFO - Ejecución de SQL para filtrar peliculas y ratings completada.
+2025-05-11 21:38:30,455 - INFO - Preprocesamiento de datos completado.
+2025-05-11 21:39:11,702 - INFO - Conexión a la base de datos establecida.
+2025-05-11 21:39:11,704 - INFO - Ejecución de SQL para filtrar peliculas y ratings completada.
+2025-05-11 21:39:14,713 - INFO - Preprocesamiento de datos completado.
+2025-05-11 21:39:42,414 - INFO - Conexión a la base de datos establecida.
+2025-05-11 21:39:42,415 - INFO - Ejecución de SQL para filtrar peliculas y ratings completada.
+2025-05-11 21:39:44,472 - INFO - Preprocesamiento de datos completado.
+2025-05-11 21:51:06,905 - INFO - Conexión a la base de datos establecida.
+2025-05-11 21:51:06,909 - INFO - Ejecución de SQL para filtrar peliculas y ratings completada.
+2025-05-11 21:51:09,511 - INFO - Preprocesamiento de datos completado.
+2025-05-11 21:51:37,114 - INFO - Conexión a la base de datos establecida.
+2025-05-11 21:51:37,116 - INFO - Ejecución de SQL para filtrar peliculas y ratings completada.
+2025-05-11 21:51:39,975 - INFO - Preprocesamiento de datos completado.
+2025-05-11 21:52:04,997 - INFO - Conexión a la base de datos establecida.
+2025-05-11 21:52:05,000 - INFO - Ejecución de SQL para filtrar peliculas y ratings completada.
+2025-05-11 21:52:07,434 - INFO - Preprocesamiento de datos completado.
+2025-05-11 21:52:07,836 - INFO - Generando recomendaciones para el usuario 2.
+2025-05-11 21:52:07,870 - INFO - Recomendaciones para el usuario 2 finalizadas
+2025-05-11 21:52:08,247 - INFO - Generando recomendaciones para el usuario 50.
+2025-05-11 21:52:08,263 - INFO - Recomendaciones para el usuario 50 finalizadas
+2025-05-11 21:52:08,620 - INFO - Generando recomendaciones para el usuario 120.
+2025-05-11 21:52:08,634 - INFO - Recomendaciones para el usuario 120 finalizadas
+2025-05-11 21:52:08,981 - INFO - Generando recomendaciones para el usuario 308.
+2025-05-11 21:52:08,998 - INFO - Recomendaciones para el usuario 308 finalizadas
+2025-05-11 21:52:09,301 - INFO - Recomendaciones generadas y guardadas en Excel y CSV.
